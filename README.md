@@ -14,13 +14,6 @@ Sushi Restoran Uygulaması, sushi severler için özel olarak hazırlanmış, en
 - VS Code
 - Dart
 
-## Ekran Görüntüleri
-<img src="https://github.com/aybukeoguz/sushi-restaurant-flutter/assets/80958621/c30bc2ee-8f13-4f3b-8f44-505824b37f69" width="300">
-<img src="https://github.com/aybukeoguz/sushi-restaurant-flutter/assets/80958621/741a55e4-09fe-4f5a-947e-6e4ee90c3f82" width="300"><br>
-<img src="https://github.com/aybukeoguz/sushi-restaurant-flutter/assets/80958621/a844f8c7-46f5-4c4b-ad49-21007be19cd4" width="300">
-
-
-
 ## Kurulum
 
 1. Bu repo'yu yerel makinenize klonlayın: `git clone link_to_your_repository`
@@ -28,6 +21,15 @@ Sushi Restoran Uygulaması, sushi severler için özel olarak hazırlanmış, en
 3. Depoyu klonlayın: `git clone [repo bağlantısı]`.
 4. Bağımlılıkları yükleyin: `flutter pub get`.
 5. Uygulamayı çalıştırın: `flutter run`.
+
+
+## Ekran Görüntüleri
+<img src="https://github.com/aybukeoguz/sushi-restaurant-flutter/assets/80958621/a844f8c7-46f5-4c4b-ad49-21007be19cd4" width="300">
+<img src="https://github.com/aybukeoguz/sushi-restaurant-flutter/assets/80958621/c30bc2ee-8f13-4f3b-8f44-505824b37f69" width="300">
+<img src="https://github.com/aybukeoguz/sushi-restaurant-flutter/assets/80958621/741a55e4-09fe-4f5a-947e-6e4ee90c3f82" width="300"><br>
+
+
+
 
 ## Kullanım
 1. Ana sayfa üzerinden en popüler sushi çeşitlerini keşfedin.
