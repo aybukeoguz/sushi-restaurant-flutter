@@ -16,7 +16,7 @@ Sushi Restoran Uygulaması, sushi severler için özel olarak hazırlanmış, en
 
 ## Ekran Görüntüleri
 <img src="https://github.com/aybukeoguz/sushi-restaurant-flutter/assets/80958621/c30bc2ee-8f13-4f3b-8f44-505824b37f69" width="300">
-<img src="https://github.com/aybukeoguz/sushi-restaurant-flutter/assets/80958621/741a55e4-09fe-4f5a-947e-6e4ee90c3f82" width="300">
+<img src="https://github.com/aybukeoguz/sushi-restaurant-flutter/assets/80958621/741a55e4-09fe-4f5a-947e-6e4ee90c3f82" width="300"><br>
 <img src="https://github.com/aybukeoguz/sushi-restaurant-flutter/assets/80958621/a844f8c7-46f5-4c4b-ad49-21007be19cd4" width="300">
 
 
