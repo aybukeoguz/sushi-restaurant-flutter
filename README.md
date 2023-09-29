@@ -1,6 +1,6 @@
-# Sushi Restoran Uygulaması 🍣
+# Sakura Sushi Restaurant Uygulaması 🍣
 
-Sushi Restoran Uygulaması, sushi severler için özel olarak hazırlanmış, en sevilen sushi çeşitlerini inceleyebileceğiniz ve sipariş verebileceğiniz bir mobil uygulamadır.
+Sushi Restaurant Uygulaması, sushi severler için özel olarak hazırlanmış, en sevilen sushi çeşitlerini inceleyebileceğiniz ve sipariş verebileceğiniz bir mobil uygulamadır.
 
 ## Özellikler
 
